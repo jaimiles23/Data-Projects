@@ -1,8 +1,7 @@
-# ALS DataEngineer Assessment
-ALS Hiring Data Engineer Extract Transform Load (ETL) exercise to manipulate and aggregate large datasets with pandas.
+# Constituent ETL exercise.
+Sample exercise conducting extract, trasnsform, load (ETL) on sample political constituent data. 
 
-- [ALS DataEngineer Assessment](#als-dataengineer-assessment)
-  - [Download](#download)
+- [Constituent ETL exercise.](#constituent-etl-exercise)
   - [Using etl_jupyternb.ipynb](#using-etl_jupyternbipynb)
   - [Using etl_script.py](#using-etl_scriptpy)
   - [Requirements](#requirements)
@@ -15,14 +14,6 @@ This repository contains two files to run the ETL exercise:
   1. **etl_jupyternb.ipynb**: a [jupyter notebooks](https://github.com/jupyter/notebook) that contains all documentation, additional exploratory data analysis, and produces the output files.
   2. **etl_script.py**: python script that can be run via the terminal to produce the output files.
 
-
-## Download 
-This repository can be downloaded from GitHub via:
-
-```
-git clone https://github.com/{}/ALS_Assessment.git
-```
-*Note: removed owner name to preserve anonymity.*
 
 
 ## Using etl_jupyternb.ipynb

@@ -1,5 +1,5 @@
 """
-Script to run ALS_DataEngineer_Assessment exercises and produce 2 output files:
+Script to run ETL exercises and produce 2 output files:
     1. people.csv
     2. acquisition_facts.csv
 
