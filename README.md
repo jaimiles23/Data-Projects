@@ -1,5 +1,5 @@
 # Data-Projects
-This repository contains a collection of data related projects.
+This repository is a collection of data-related projects
 
 ## Data Transformation
 - [constituent_etl](https://github.com/jaimiles23/Data-Projects/tree/main/constituent_etl)
