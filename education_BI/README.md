@@ -10,6 +10,9 @@ This repository applies Business Intelligence (BI)/Data Mining (DM) techniques t
 This repository contains jupyter notebooks to conduct analysis:
 1. *EDA.ipynb* - exploratory data analysis in Python. Checks for null values and variable correlations.
 2. *Decision Tree Regressor.ipynb* - Runs a decision tree regressor to predict student's final grade.
-3. 
 
+## TODO:
+- [ ] Decision tree classifier
+- [ ] Create predictive logit predictive regression (classifier)
+- [ ] Create predictive linear regression (grade)
 
